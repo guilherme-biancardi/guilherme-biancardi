@@ -1,9 +1,9 @@
-<h2>Hello there 👋, my name is Leonardo!</h2>
+<h2>Hello there 👋, my name is Guilherme Biancardi!</h2>
 
-- 💻 I'm currently working on back-end using PHP.
-- 🌱 I'm improving myself on Spring boot and node.js.
+- 💻 I'm currently doing an internship at Esferas Software.
+- 🌱 I'm getting better at Vue.js and Laravel.
 - 🏁 My goal is to become the best!
-- 🌟 Fun fact: In my free time I love to play video games.
+- 🌟 Curiosity: in my free time I love to play Rocket League and watch soccer.
 <!-- - ➕ For more information click <a href='https://LeonardoPinheiroLacerda.github.io'>here</a>. -->
 
 <h2>Fun repositories</h2>
@@ -54,7 +54,7 @@ The application uses thymeleaf to render the pages and the bootstrap framework t
 
 <h2>Contacts: </h2>
 <div>
-  <a href='mailto:leon.lacerda2015@gmail.com' target="_blank"><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'></a>
-  <a href='https://www.linkedin.com/in/leonardo-pinheiro-lacerda-343768156/' target="_blank"><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
-  <a href='https://api.whatsapp.com/send?phone=5511953248804' target="_blank"><img src='https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white'/></a>
+  <a href='mailto:guilhermerbiancardi@outlook.com' target="_blank"><img src='https://img.shields.io/badge/Outlook-249ee4?style=for-the-badge&logo=microsoft&logoColor=white'></a>
+  <a href='https://www.linkedin.com/in/guilherme-biancardi-353709187/' target="_blank"><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
+  <a href='https://api.whatsapp.com/send?phone=5511966293323' target="_blank"><img src='https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white'/></a>
 </div>
