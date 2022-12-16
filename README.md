@@ -44,9 +44,11 @@ The application uses thymeleaf to render the pages and the bootstrap framework t
 
   <img src='https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg' height='60px' width='65px'/>
   <img src='https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg' height='60px' width='65px'/>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg' height='60px' width='65px'/>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg' height='60px' width='65px'/>
   <img src='https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg' height='60px' width='65px'/>
   <img src='https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg' height='60px' width='65px'/>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/xd/xd-original-wordmark.svg' height='60px' width='65px'/>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg' height='60px' width='65px'/>
 
 </div>
 
