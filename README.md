@@ -8,20 +8,13 @@
 
 <h2>Fun repositories</h2>
 
-- <a href="https://github.com/LeonardoPinheiroLacerda/TaskManager" target="_blank">TaskManager</a> (A full stack project to demonstrate my knowledge using Spring boot for Backend, Angular for Frontend and Docker to manage its containers).
-- <a href="https://github.com/LeonardoPinheiroLacerda/AnimePoll" target="_blank">AnimePoll</a> A Spring MVC application that consumes an anime metadata API to build a dinamic poll with the current airing animes. Every season the application will update itself with the latest animes.
-The application uses thymeleaf to render the pages and the bootstrap framework to styling.
-  - You can access the app <a href="https://anime-poll.herokuapp.com/">here</a>.
-- <a href="https://github.com/LeonardoPinheiroLacerda/MyPokedex" target="_blank">MyPokedex</a> A pokedex rendered only using CSS, it consumes the pokeAPI to search for pokemons data.
-  - You can access the app <a href="https://leonardopinheirolacerda.github.io/MyPokedex/">here</a>
-- <a href="https://github.com/LeonardoPinheiroLacerda/Spring-Security-Demo" target="_blank">SpringBootDemo</a> (A Spring Security application example to use as reference).
-- <a href="https://github.com/LeonardoPinheiroLacerda/TalkToStrangersChat" target="_blank">TalkToStrangersChat</a> (A chat group developed on spring boot and deployed on heroku).
-   - You can access the app <a href="https://talktostrangerschat.herokuapp.com/" target="_blank">here</a>.
-- <a href='https://github.com/LeonardoPinheiroLacerda/I18N-switch' target="_blank">I18N-switch </a> (A simple i18n component for websites).
-- <a href='https://github.com/LeonardoPinheiroLacerda/GameOfLife' target="_blank">GameOfLife </a> (A zero-player game developed by John Horton Conway in 1970).
-  - You can access the github pages environment <a href="https://leonardopinheirolacerda.github.io/GameOfLife/" target="_blank">here</a>.
-- <a href='https://github.com/LeonardoPinheiroLacerda/bongoCat' target="_blank">BongoCat</a> (A game inspired by <a href="https://bongo.cat" target='_blank'>bongo.cat</a>).
-   - You can access the github pages environment <a href="https://leonardopinheirolacerda.github.io/bongoCat/" target="_blank">here</a>.
+- <a href="https://github.com/guilherme-biancardi/formula-races" target="_blank">Formula-Races</a> (Formula 1 statistics project made in vue.js, with drivers and constructors championship table, performance graph and race results).
+- <a href="https://github.com/guilherme-biancardi/timer-esferas-software" target="_blank">Timer Esferas Software</a> (timer in javascript proposed as a test by Esferas Software).
+- <a href="https://github.com/guilherme-biancardi/jogo_poker" target="_blank">Poker Game</a> (Poker game made in Java, Java-Swing and OOP concepts).
+- <a href="https://github.com/guilherme-biancardi/watch-seven-segment" target="_blank">Watch Seven Segment</a> 
+(7-segment display clock, made in Vue, with date and color customization).
+- <a href="https://github.com/guilherme-biancardi/advice-generator" target="_blank">Advice Generator</a> (advice generator using vue.js and the Advice Slip API).
+- <a href="https://github.com/guilherme-biancardi/random-animal-generator" target="_blank">Random Animal Information Generator</a> (Random animal generator, containing information such as length, habitat, scientific name, etc. Made in Vue.js and using the Zoo Animal API).
 
 <h2>Stats:</h2>
 
