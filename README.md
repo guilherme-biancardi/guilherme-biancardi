@@ -34,7 +34,7 @@ The application uses thymeleaf to render the pages and the bootstrap framework t
 
 <div style='display: inline'>
   <img src='https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg' height='60px' width='65px'/>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/vuejs/vue-original-wordmark.svg' height='60px' width='65px'/> 
+  <img src='https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg' height='60px' width='65px'/> 
   <img src='https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg' height='60px' width='65px'/>
   <img src='https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg' height='60px' width='65px'/>
   <img src='https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg' height='60px' width='65px'/>
