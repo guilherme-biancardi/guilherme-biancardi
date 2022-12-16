@@ -26,8 +26,8 @@ The application uses thymeleaf to render the pages and the bootstrap framework t
 <h2>Stats:</h2>
 
 <div>
-  <img src='https://github-readme-stats.vercel.app/api?username=LeonardoPinheiroLacerda&theme=dracula&show_icons=true' height='200px'>
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoPinheiroLacerda&theme=dracula&layout=compact' height='200px'>
+  <img src='https://github-readme-stats.vercel.app/api?username=guilherme-biancardi&theme=dracula&show_icons=true' height='200px'>
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-biancardi&theme=dracula&layout=compact' height='200px'>
 </div>
 
 <h2>Languages and tools:</h2>
