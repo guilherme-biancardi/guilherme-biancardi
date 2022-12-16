@@ -33,22 +33,20 @@ The application uses thymeleaf to render the pages and the bootstrap framework t
 <h2>Languages and tools:</h2>
 
 <div style='display: inline'>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg' height='60px' width='65px'/>
   <img src='https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg' height='60px' width='65px'/> 
-  <img src='https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg' height='60px' width='65px'/>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg' height='60px' width='65px'/>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg' height='60px' width='65px'/>
   <img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg' height='60px' width='65px'/>
   <img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg' height='60px' width='65px'/>
   <img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' height='60px' width='65px'/>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg' height='60px' width='65px'/>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg' height='60px' width='65px'/>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg' height='60px' width='65px'/>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg' height='60px' width='65px'/>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg' height='60px' width='65px'/>
+   <img src='https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg' height='60px' width='65px'/>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg' height='60px' width='65px'/>
+
   <img src='https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg' height='60px' width='65px'/>
   <img src='https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg' height='60px' width='65px'/>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/godot/godot-original-wordmark.svg' height='60px' width='65px'/>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg' height='60px' width='65px'/>
   <img src='https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg' height='60px' width='65px'/>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg' height='60px' width='65px'/>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/xd/xd-original-wordmark.svg' height='60px' width='65px'/>
 
 </div>
 
