@@ -1,53 +1,51 @@
-<h2>Hello there 👋, my name is Guilherme Biancardi!</h2>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <div id="badges">
+  <a href="https://www.linkedin.com/in/guilherme-gon%C3%A7alves-50a48b1bb">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+<img src="https://komarev.com/ghpvc/?username=degui1&style=flat-square&color=blue" alt=""/>
+<h1>
+  E aí
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+</div>
 
-- 💻 I'm currently doing an internship at Esferas Software.
-- 🌱 I'm getting better at Vue.js and Laravel.
-- 🏁 My goal is to become the best!
-- 🌟 Curiosity: in my free time I love to play Rocket League and watch soccer.
-<!-- - ➕ For more information click <a href='https://LeonardoPinheiroLacerda.github.io'>here</a>. -->
+<!-- <div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div> -->
 
-<h2>Fun repositories</h2>
+---
 
-- <a href="https://github.com/guilherme-biancardi/formula-races" target="_blank">Formula-Races</a> (Formula 1 statistics project made in vue.js, with drivers and constructors championship table, performance graph and race results).
-- <a href="https://github.com/guilherme-biancardi/timer-esferas-software" target="_blank">Timer Esferas Software</a> (timer in javascript proposed as a test by Esferas Software).
-- <a href="https://github.com/guilherme-biancardi/jogo_poker" target="_blank">Poker Game</a> (Poker game made in Java, Java-Swing and OOP concepts).
-- <a href="https://github.com/guilherme-biancardi/watch-seven-segment" target="_blank">Watch Seven Segment</a> 
-(7-segment display clock, made in Vue, with date and color customization).
-- <a href="https://github.com/guilherme-biancardi/advice-generator" target="_blank">Advice Generator</a> (advice generator using vue.js and the Advice Slip API).
-- <a href="https://github.com/guilherme-biancardi/random-animal-generator" target="_blank">Random Animal Information Generator</a> (Random animal generator, containing information such as length, habitat, scientific name, etc. Made in Vue.js and using the Zoo Animal API).
+### :man_technologist: Sobre mim :
 
-<h2>Stats:</h2>
+- :telescope: Sou um Programador Jr. Full Stack que trabalha atualmente com PHP, Typescript e React Native.
+
+- :seedling: Atualmente busco melhorar minhas habilidades técnicas, principalmente na parte de desenvolvimento mobile e técnicas de renderização.
+
+- :zap: Amo programar em JavaScript/TypeScript e atualmente estou dedicando meu tempo nas formaçãoes da Rocketseat.
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
 
 <div>
-  <img src='https://github-readme-stats.vercel.app/api?username=guilherme-biancardi&theme=dracula&show_icons=true' height='200px'>
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-biancardi&theme=dracula&layout=compact' height='200px'>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg"  title="Vue" alt="Vue" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"  title="Vue" alt="Vue" width="40" height="40"/>&nbsp;
 </div>
 
-<h2>Languages and tools:</h2>
+---
 
-<div style='display: inline'>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg' height='60px' width='65px'/> 
-  <img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg' height='60px' width='65px'/>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg' height='60px' width='65px'/>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' height='60px' width='65px'/>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg' height='60px' width='65px'/>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg' height='60px' width='65px'/>
-   <img src='https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg' height='60px' width='65px'/>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg' height='60px' width='65px'/>
+### :fire: My Stats :
 
-  <img src='https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg' height='60px' width='65px'/>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg' height='60px' width='65px'/>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg' height='60px' width='65px'/>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg' height='60px' width='65px'/>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg' height='60px' width='65px'/>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg' height='60px' width='65px'/>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg' height='60px' width='65px'/>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=guilherme-biancardi&theme=vision-friendly-dark&mode=weekly)](https://git.io/streak-stats)
 
-</div>
-
-<h2>Contacts: </h2>
-<div>
-  <a href='mailto:guilhermerbiancardi@outlook.com' target="_blank"><img src='https://img.shields.io/badge/Outlook-249ee4?style=for-the-badge&logo=microsoft&logoColor=white'></a>
-  <a href='https://www.linkedin.com/in/guilherme-biancardi-353709187/' target="_blank"><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
-  <a href='https://api.whatsapp.com/send?phone=5511966293323' target="_blank"><img src='https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white'/></a>
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-biancardi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
