@@ -20,7 +20,7 @@
 
 ### :man_technologist: Sobre mim :
 
-- :telescope: Sou um Programador Jr. Full Stack que trabalha atualmente com PHP, Typescript e React Native.
+- :telescope: Sou um Programador Jr. Full Stack que trabalha atualmente com PHP, Typescript, Vue.js e React Native.
 
 - :seedling: Atualmente busco melhorar minhas habilidades técnicas, principalmente na parte de desenvolvimento mobile e técnicas de renderização.
 
